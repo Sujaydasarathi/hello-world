@@ -1,0 +1,13 @@
+PARENT_LOCATION_TYPE_ID,PARENT_NAME,CHILD_LOCATION_TYPE_ID,CHILD_NAME
+1000,Country,1002,State
+1000,Country,1004,Province
+1000,Country,1006,City
+1002,State,1006,City
+1004,Province,1006,City
+1006,City,1008,Building
+1006,City,1010,Customer Premise
+1008,Building,1012,Floor
+1008,Building,1014,Room
+1008,Building,1010,Customer Premise
+1012,Floor,1010,Customer Premise
+1012,Floor,1014,Room

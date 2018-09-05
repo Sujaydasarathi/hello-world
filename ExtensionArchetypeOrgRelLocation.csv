@@ -1,0 +1,5 @@
+ORG_TYPE_ID,ORG_TYPE_NAME,LOCATION_TYPE_ID,LOCATION_TYPE_NAME
+1070,Customer Organization,1010,Customer Premise
+1072,Co-Location Provider,1008,Building
+1072,Co-Location Provider,1012,Floor
+1072,Co-Location Provider,1014,Room

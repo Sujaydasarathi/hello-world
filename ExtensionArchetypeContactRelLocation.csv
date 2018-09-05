@@ -1,0 +1,4 @@
+CONTACT_TYPE_ID,CONTACT_TYPE_NAME,LOCATION_TYPE_ID,LOCATION_TYPE_NAME
+1082,Co-Location Contact,1008,Building
+1082,Co-Location Contact,1012,Floor
+1082,Co-Location Contact,1014,Room

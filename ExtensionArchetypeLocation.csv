@@ -1,0 +1,9 @@
+LOCATION_TYPE_ID,NAME
+1000,Country
+1002,State
+1004,Province
+1006,City
+1008,Building
+1010,Customer Premise
+1012,Floor
+1014,Room
